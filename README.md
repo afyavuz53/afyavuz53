@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ![Ahmet's github stats](https://github-readme-stats.vercel.app/api?username=afyavuz53&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afyavuz53&layout=compact)](https://github.com/afyavuz53/github-readme-stats)
+
+
+![Rıdvan's github stats](https://github-readme-stats.vercel.app/api?username=afyavuz53&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afyavuz53&layout=compact)](https://github.com/aafyavuz53/github-readme-stats)
